@@ -62,7 +62,7 @@ The Video OCR module relies on several libraries to achieve its functionalities.
 
 ## Demo Video
 
-To see the Video OCR module in action, please refer to the demo video ![video](video_ocr.py).
+To see the Video OCR module in action, please refer to the demo video ![video](https://github.com/azim-qadri/Video-OCR/blob/master/Working%20Video.mp4).
 
 ## Usage
 
