@@ -63,7 +63,7 @@ The Video OCR module relies on several libraries to achieve its functionalities.
 ## Demo Video
 
 To see the Video OCR module in action, please refer to the demo video. 
-![Video](https://drive.google.com/file/d/1xMxuxkkDsDvKT7VsMRuFhdbPG6h3yxvy/view?usp=drive_link)
+![Video](https://drive.google.com/file/d/1xMxuxkkDsDvKT7VsMRuFhdbPG6h3yxvy/view)
 
 ## Usage
 
