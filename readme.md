@@ -63,6 +63,7 @@ The Video OCR module relies on several libraries to achieve its functionalities.
 ## Demo Video
 
 To see the Video OCR module in action, please refer to the demo video. 
+![Video](https://drive.google.com/file/d/1xMxuxkkDsDvKT7VsMRuFhdbPG6h3yxvy/view?usp=drive_link)
 
 ## Usage
 
@@ -82,7 +83,7 @@ To use the Video OCR module, follow these steps:
 
 5. The video window will appear, and you can drag your mouse to select the ROI containing the text you want to extract.
 
-6. After selecting the ROI, the video processing will start, and you will see the processed frames with the text area highlighted.
+6. After selecting the ROI, double click inside the selected region, the video processing will start, and you will see the processed frames with the text area highlighted.
 
 7. Once the video processing is complete, the recognized text will be saved to a Word document (`output.docx`) in the same directory.
 
